@@ -1,0 +1,14 @@
+/home/ky/Área de trabalho/teste_tecnico/Desafio02/desafio02/bin/Debug/net9.0/desafio02
+/home/ky/Área de trabalho/teste_tecnico/Desafio02/desafio02/bin/Debug/net9.0/desafio02.deps.json
+/home/ky/Área de trabalho/teste_tecnico/Desafio02/desafio02/bin/Debug/net9.0/desafio02.runtimeconfig.json
+/home/ky/Área de trabalho/teste_tecnico/Desafio02/desafio02/bin/Debug/net9.0/desafio02.dll
+/home/ky/Área de trabalho/teste_tecnico/Desafio02/desafio02/bin/Debug/net9.0/desafio02.pdb
+/home/ky/Área de trabalho/teste_tecnico/Desafio02/desafio02/obj/Debug/net9.0/desafio02.GeneratedMSBuildEditorConfig.editorconfig
+/home/ky/Área de trabalho/teste_tecnico/Desafio02/desafio02/obj/Debug/net9.0/desafio02.AssemblyInfoInputs.cache
+/home/ky/Área de trabalho/teste_tecnico/Desafio02/desafio02/obj/Debug/net9.0/desafio02.AssemblyInfo.cs
+/home/ky/Área de trabalho/teste_tecnico/Desafio02/desafio02/obj/Debug/net9.0/desafio02.csproj.CoreCompileInputs.cache
+/home/ky/Área de trabalho/teste_tecnico/Desafio02/desafio02/obj/Debug/net9.0/desafio02.dll
+/home/ky/Área de trabalho/teste_tecnico/Desafio02/desafio02/obj/Debug/net9.0/refint/desafio02.dll
+/home/ky/Área de trabalho/teste_tecnico/Desafio02/desafio02/obj/Debug/net9.0/desafio02.pdb
+/home/ky/Área de trabalho/teste_tecnico/Desafio02/desafio02/obj/Debug/net9.0/desafio02.genruntimeconfig.cache
+/home/ky/Área de trabalho/teste_tecnico/Desafio02/desafio02/obj/Debug/net9.0/ref/desafio02.dll
